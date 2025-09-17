@@ -1,0 +1,12 @@
+{
+  "water_monitor": {
+    "liters_used": 0,
+    "units_used": 0,
+    "pressure": 0,
+    "pressure_status": "normal"
+  },
+  "pump_house": {
+    "ultrasonic_level": 0,
+    "relay_status": "off"
+  }
+}
